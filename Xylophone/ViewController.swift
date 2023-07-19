@@ -13,7 +13,9 @@ class ViewController: UIViewController {
         super.viewDidLoad()
     }
 
-
+    @IBAction func KeyPressed(_ sender: UIButton) {
+    }
+    
     
 
 }
